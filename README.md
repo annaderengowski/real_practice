@@ -4,6 +4,8 @@
 https://medium.com/interviewnoodle/data-structures-and-algorithms-in-real-life-6b2b813d516e
 
 ## Object Oriented Programming
+https://www.codewars.com/kata/search/python?beta=false&q=&tags=Object-oriented+Programming
+https://leetcode.com/tag/design/
 
 ## List Comprehension
 https://bbookman.github.io/Python-list-comprehension1/
