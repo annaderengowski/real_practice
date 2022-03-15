@@ -9,6 +9,8 @@ https://leetcode.com/tag/design/
 
 ## List Comprehension
 https://bbookman.github.io/Python-list-comprehension1/
+https://gist.github.com/doughsay/cb50d9e4d344230ebc166255a202f81d
+https://towardsdatascience.com/beginner-to-advanced-list-comprehension-practice-problems-a89604851313
 
 ## Hashing
 https://medium.com/@codingfreak/hashing-problems-in-data-structures-c41b77a5119a
