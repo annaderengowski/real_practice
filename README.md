@@ -18,6 +18,7 @@
 ## Recursion
 - http://pythonpracticeprojects.com/real-world-recursion.html
 
+## Misc
 - http://rosettacode.org/wiki/Category:Programming_Tasks
 - https://www.byte-by-byte.com/wp-content/uploads/2019/12/50-Coding-Interview-Questions-V2.pdf?vgo_ee=G44ZrXLp3wATZ9tcAQ44HjpxdzkQNl9LgdxZ9pnzLRY%3D
 - https://jkchu.com/2015/12/10/real-world-programming-interview-question-1/
